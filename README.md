@@ -1,10 +1,16 @@
 <table>
 <tr>
-    <td><h2>Blog</h2></td>
-    <td><h2>Hobbies</h2></td>
+    <td><h4>Blog</h4></td>
+    <td><h4>Hobbies</h4></td>
 
 </tr>
 </table>
+
+**Benjamin Nutter**  
+M.S. Statistics, University of Southern Maine  
+[Battelle Memorial Institute](www.battelle.org)  
+[Bluegrass Chemical Agent Pilot-destruction
+Plant](http://www.bechtelparsonsbgcapp.com/)
 
 R Packages
 ----------
