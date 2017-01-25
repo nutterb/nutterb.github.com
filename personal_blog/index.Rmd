@@ -1,5 +1,5 @@
 ---
-output: md_document
+output: html_document
 ---
 
 ```{r, echo = FALSE, include = FALSE}
@@ -27,7 +27,7 @@ title <-
 date <- sub("personal_blog[/]", "", dir)
 
 link <- sprintf("<a href = '%s'><h3>%s</h3></a>",
-                file.path("/personal_blog", "index.md"),
+                file.path("/personal_blog", "index.html"),
                 title)
 ```
 

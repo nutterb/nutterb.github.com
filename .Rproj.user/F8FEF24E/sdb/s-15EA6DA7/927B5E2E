@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"Sample Blog Post\"\nauthor: \"Benjamin Nutter\"\ndate: \"January 25, 2017\"\noutput: md_document\n---\n\nThis is a samle of writing.",
+    "contents" : "---\ntitle: \"Sample Blog Post\"\nauthor: \"Benjamin Nutter\"\ndate: \"January 25, 2017\"\noutput: html_document\n---\n\nThis is a samle of writing.",
     "created" : 1485358691869.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1374049942",
+    "hash" : "3249991099",
     "id" : "927B5E2E",
-    "lastKnownWriteTime" : 1485360248,
-    "last_content_update" : 1485360248454,
+    "lastKnownWriteTime" : 1485361440,
+    "last_content_update" : 1485361440240,
     "path" : "~/GitHub/nutterb.github.com/personal_blog/2017-01-25/index.Rmd",
     "project_path" : "personal_blog/2017-01-25/index.Rmd",
     "properties" : {
