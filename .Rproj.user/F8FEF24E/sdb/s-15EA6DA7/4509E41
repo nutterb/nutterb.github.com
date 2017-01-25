@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\noutput: md_document\n---\n\n```{r, echo = FALSE}\nlibrary(magrittr)\ndir <- list.dirs(recursive = FALSE)\n\nyaml <- \n  lapply(file.path(dir, \"index.Rmd\"),\n         readLines) %>%\n  lapply(function(x){\n    yaml_matter <- which(grepl(\"^---\", x))\n    x[-c(1, yaml_matter[2]:length(x))]\n  }) \n\ntitle <- \n  vapply(yaml,\n         function(x){\n           x[grepl(\"^title\", x)]\n         },\n         FUN.VALUE = character(1)) %>%\n  sub(\"^title[:]\", \"\", .) %>%\n  gsub(\"\\\"\", \"\", .) %>%\n  trimws()\n\ndate <- sub(\"personal_blog[/]\", \"\", dir)\n\nlink <- sprintf(\"<a href = '%s'><h3>%s</h3></a>\",\n                file.path(dir, \"index.html\"),\n                title)\n```\n\n```{r, echo = FALSE, results = 'asis'}\npaste0(link, collapse = \"<br/><br/>\") %>%\n  cat()\n```",
+    "created" : 1485358637148.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1299384999",
+    "id" : "4509E41",
+    "lastKnownWriteTime" : 1485360219,
+    "last_content_update" : 1485360219558,
+    "path" : "~/GitHub/nutterb.github.com/personal_blog/index.Rmd",
+    "project_path" : "personal_blog/index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
