@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "title: Bluegrass<br/>Statistician\n",
+    "contents" : "title: Bluegrass<br/>Statistician\ntheme: jekyll-theme-dinky",
     "created" : 1485352299809.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3994967944",
+    "hash" : "3002174052",
     "id" : "26168D72",
-    "lastKnownWriteTime" : 1485355006,
-    "last_content_update" : 1485355006705,
+    "lastKnownWriteTime" : 1485355447,
+    "last_content_update" : 1485355447623,
     "path" : "~/GitHub/nutterb.github.com/_config.yml",
     "project_path" : "_config.yml",
     "properties" : {
