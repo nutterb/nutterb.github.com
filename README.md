@@ -1,6 +1,7 @@
 <table>
 <tr>
     <td><h4>Blog</h4></td>
+    <td><h4>Professional</hr></td>
     <td><h4>Hobbies</h4></td>
 
 </tr>
@@ -8,7 +9,7 @@
 
 **Benjamin Nutter**  
 M.S. Statistics, University of Southern Maine  
-[Battelle Memorial Institute](www.battelle.org)  
+[Battelle Memorial Institute](https://www.battelle.org/)  
 [Bluegrass Chemical Agent Pilot-destruction
 Plant](http://www.bechtelparsonsbgcapp.com/)
 
