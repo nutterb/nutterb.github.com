@@ -1,5 +1,23 @@
-R Markdown
-----------
+Life in the Bluegrass
+=====================
+
+<table>
+<tr>
+<h2>
+R Packages
+</h2>
+</tr>
+<tr>
+<h2>
+Hobbies
+</h2>
+</tr>
+<tr>
+<h2>
+Misc.
+</h2>
+</tr>
+</table>
 
 This is an R Markdown document. Markdown is a simple formatting syntax
 for authoring HTML, PDF, and MS Word documents. For more details on

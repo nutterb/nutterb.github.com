@@ -9,7 +9,15 @@ output: md_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Life in the Bluegrass
+
+<div>
+<table>
+  <tr><h2>R Packages</h2></tr>
+  <tr><h2>Hobbies</h2></tr>
+  <tr><h2>Misc.</h2></tr>
+</table>
+</div>
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
