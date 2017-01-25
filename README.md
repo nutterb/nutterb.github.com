@@ -1,7 +1,7 @@
 <table>
 <tr>
     <td><h4>Blog</h4></td>
-    <td><h4>Professional</hr></td>
+    <td><h4>Professional</h4></td>
     <td><h4>Hobbies</h4></td>
 
 </tr>
