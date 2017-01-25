@@ -1,13 +1,14 @@
-**Benjamin Nutter**  
+Benjamin Nutter
+---------------
+
 M.S. Statistics, University of Southern Maine  
 [Battelle Memorial Institute](https://www.battelle.org/)  
 [Bluegrass Chemical Agent Pilot-destruction
 Plant](http://www.bechtelparsonsbgcapp.com/)
 
-R Packages
-----------
+### R Packages
 
-### Published on CRAN
+#### Published on CRAN
 
 **Author:**
 
