@@ -27,7 +27,7 @@ title <-
 date <- sub("personal_blog[/]", "", dir)
 
 link <- sprintf("<a href = '%s'><h3>%s</h3></a>",
-                file.path(dir, "index.md"),
+                file.path("/personal_blog", "index.md"),
                 title)
 ```
 
