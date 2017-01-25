@@ -1,12 +1,3 @@
-<table>
-<tr>
-    <td><h4>Blog</h4></td>
-    <td><h4>Professional</h4></td>
-    <td><h4>Hobbies</h4></td>
-
-</tr>
-</table>
-
 **Benjamin Nutter**  
 M.S. Statistics, University of Southern Maine  
 [Battelle Memorial Institute](https://www.battelle.org/)  
