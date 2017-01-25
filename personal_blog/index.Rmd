@@ -1,10 +1,12 @@
 ---
-output: html_document
+output: 
+  html_document
 ---
 
 ```{r, echo = FALSE, include = FALSE}
 library(magrittr)
-dir <- list.dirs(recursive = FALSE)
+dir <- list.files(recursive = FALSE,
+                 pattern = "\\d{4}-\\d{2}-\\d{2}")
 
 yaml <- 
   lapply(file.path(dir, "index.Rmd"),
