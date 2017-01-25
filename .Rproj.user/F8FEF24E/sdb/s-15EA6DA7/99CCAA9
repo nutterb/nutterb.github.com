@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"About\"\noutput: md_document\ndate: '`r Sys.time()`'\n---\n\n**R Packages**\n\n* `lazyWeave`\n* `redcapAPI`\n* `HydeNet`\n* `pixiedust`",
+    "created" : 1485350444180.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2010927765",
+    "id" : "99CCAA9",
+    "lastKnownWriteTime" : 1485350588,
+    "last_content_update" : 1485350588737,
+    "path" : "~/GitHub/nutterb.github.com/content/about.Rmd",
+    "project_path" : "content/about.Rmd",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

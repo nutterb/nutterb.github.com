@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "This is a \"hello world\" example website for the\n[**blogdown**](https://github.com/rstudio/blogdown) package. The theme\nwas forked from\n\\[@jrutheiser/hugo-lithium-theme\\](<https://github.com/jrutheiser/hugo-lithium-theme>)\nand modified by [Yihui\nXie](https://github.com/yihui/hugo-lithium-theme).\n",
+    "created" : 1485350386902.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "580523373",
+    "id" : "BB314AE3",
+    "lastKnownWriteTime" : 1485350516,
+    "last_content_update" : 1485350516,
+    "path" : "~/GitHub/nutterb.github.com/content/about.md",
+    "project_path" : "content/about.md",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

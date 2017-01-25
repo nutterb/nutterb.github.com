@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Religiously Inconsistent\"\nauthor: \"Benjamin Nutter\"\ndate: 2017-01-25T21:13:14-05:00\ncategories: [\"R\"]\ntags: [\"R Markdown\", \"plot\", \"regression\"]\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(collapse = TRUE)\n```\n\nThis is a sample blog.  Let's see what happens.",
+    "created" : 1485350248389.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3347475366",
+    "id" : "93DA2F4E",
+    "lastKnownWriteTime" : 1485350372,
+    "last_content_update" : 1485350372179,
+    "path" : "~/GitHub/nutterb.github.com/content/post/2017-01-25-SamplePost.Rmd",
+    "project_path" : "content/post/2017-01-25-SamplePost.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
