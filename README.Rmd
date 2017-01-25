@@ -13,9 +13,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div>
 <table>
-  <tr><h2>R Packages</h2></tr>
-  <tr><h2>Hobbies</h2></tr>
-  <tr><h2>Misc.</h2></tr>
+  <tr>
+    <td><h2>R Packages</h2></td>
+    <td><h2>Hobbies</h2></td>
+    <td><h2>Misc.</h2></td>
+  </tr>
 </table>
 </div>
 

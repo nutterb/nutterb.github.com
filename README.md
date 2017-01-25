@@ -3,19 +3,10 @@ Life in the Bluegrass
 
 <table>
 <tr>
-<h2>
-R Packages
-</h2>
-</tr>
-<tr>
-<h2>
-Hobbies
-</h2>
-</tr>
-<tr>
-<h2>
-Misc.
-</h2>
+    <td><h2>R Packages</h2></td>
+    <td><h2>Hobbies</h2></td>
+    <td><h2>Misc.</h2></td>
+
 </tr>
 </table>
 
