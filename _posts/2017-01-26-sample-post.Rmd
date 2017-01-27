@@ -2,7 +2,7 @@
 title: "Sample Post"
 author: "Benjamin Nutter"
 date: "January 26, 2017"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
