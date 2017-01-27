@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     color: #232323;
-	background-color: #FBFAF7;
+	  background-color: #FBFAF7;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -24,22 +24,22 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #232323;
+    color: #c30000;
 }
 h2 {
-  color: #232323;
+  color: #c30000;
 }
 h3 {
-  color: #232323;
+  color: #c30000;
 }
 h4 {
-  color: #232323;
+  color: #c30000;
 }
 h5 {
-  color: #232323;
+  color: #c30000;
 }
 h6 {
-  color: #232323;
+  color: #c30000;
 }
 p {
     font-size: 1.5em;
