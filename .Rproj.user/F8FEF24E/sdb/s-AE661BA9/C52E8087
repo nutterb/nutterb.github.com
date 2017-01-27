@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: default\ntitle: Statistics in the Bluegrass\n---\n<div class=\"blurb\">\n\t<h1>Hi there, I'm Hank Quinlan!</h1>\n\t<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href=\"/about\">Read more about my life...</a></p>\n</div><!-- /.blurb -->\n",
+    "created" : 1485514591682.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3910480756",
+    "id" : "C52E8087",
+    "lastKnownWriteTime" : 1485514743,
+    "last_content_update" : 1485514758730,
+    "path" : "~/GitHub/nutterb.github.com/index_backup.html",
+    "project_path" : "index_backup.html",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}

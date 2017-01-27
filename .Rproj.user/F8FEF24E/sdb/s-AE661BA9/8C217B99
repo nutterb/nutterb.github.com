@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\noutput: html_document\n---\n\n```{r, echo = FALSE, results = 'asis'}\ncat(\"---\nlayout: default\ntitle: Statistics in the Bluegrass\n---\")\n```\n\nTry some content.\n\ninclude some code\n\n```{r}\nlibrary(pixiedust)\ndust(head(mtcars))\n```",
+    "created" : 1485514501765.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3478427144",
+    "id" : "8C217B99",
+    "lastKnownWriteTime" : 1485514854,
+    "last_content_update" : 1485514854826,
+    "path" : "~/GitHub/nutterb.github.com/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

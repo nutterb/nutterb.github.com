@@ -1,0 +1,19 @@
+---
+output: html_document
+---
+
+```{r, echo = FALSE, results = 'asis'}
+cat("---
+layout: default
+title: Statistics in the Bluegrass
+---")
+```
+
+Try some content.
+
+include some code
+
+```{r}
+library(pixiedust)
+dust(head(mtcars))
+```
