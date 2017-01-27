@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<title>Hank Quinlan, Horrible Cop</title>\n\t</head>\n\t<body>\n\t\t<nav>\n    \t\t<ul>\n        \t\t<li><a href=\"/\">Home</a></li>\n\t        \t<li><a href=\"/about\">About</a></li>\n        \t\t<li><a href=\"/cv\">CV</a></li>\n        \t\t<li><a href=\"/blog\">Blog</a></li>\n    \t\t</ul>\n\t\t</nav>\n\t\t<div class=\"container\">\n    \t\t<div class=\"blurb\">\n        \t\t<h1>Hi there, I'm Hank Quinlan!</h1>\n\t\t\t\t<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href=\"/about\">Read more about my life...</a></p>\n    \t\t</div><!-- /.blurb -->\n\t\t</div><!-- /.container -->\n\t\t<footer>\n    \t\t<ul>\n        \t\t<li><a href=\"mailto:hankquinlanhub@gmail.com\">email</a></li>\n        \t\t<li><a href=\"https://github.com/hankquinlan\">github.com/hankquinlan</a></li>\n\t\t\t</ul>\n\t\t</footer>\n\t</body>\n</html>",
+    "contents" : "---\nlayout: default\ntitle: Hank Quinlan, Horrible Cop\n---\n<div class=\"blurb\">\n\t<h1>Hi there, I'm Hank Quinlan!</h1>\n\t<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href=\"/about\">Read more about my life...</a></p>\n</div><!-- /.blurb -->\n",
     "created" : 1485511729143.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1041090447",
+    "hash" : "2217064526",
     "id" : "C9B4E3C5",
-    "lastKnownWriteTime" : 1485511747,
-    "last_content_update" : 1485511747356,
+    "lastKnownWriteTime" : 1485512951,
+    "last_content_update" : 1485512951,
     "path" : "~/GitHub/nutterb.github.com/index.html",
     "project_path" : "index.html",
     "properties" : {
