@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\nlayout: default\ntitle: Religiously Inconsistent\n---\n\t<h1>{{ page.title }}</h1>\n\t<ul class=\"posts\">\n\n\t  {% for post in site.categories.private %}\n\t    <li><span>{{ post.date | date_to_string }}</span> » <a href=\"{{ post.url }}\" title=\"{{ post.title }}\">{{ post.title }}</a></li>\n\t  {% endfor %}\n\t</ul>\n",
+    "contents" : "---\nlayout: default\ntitle: Religiously Inconsistent\n---\n\t<h1>{{ page.title }}</h1>\n\t<ul class=\"posts\">\n\n\t  {% for post in site.posts %}\n\t    <li><span>{{ post.date | date_to_string }}</span> » <a href=\"{{ post.url }}\" title=\"{{ post.title }}\">{{ post.title }}</a></li>\n\t  {% endfor %}\n\t</ul>\n",
     "created" : 1485542227098.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3361484639",
+    "hash" : "4249532750",
     "id" : "1E0435EE",
-    "lastKnownWriteTime" : 1485542845,
-    "last_content_update" : 1485542845646,
+    "lastKnownWriteTime" : 1485543039,
+    "last_content_update" : 1485543039573,
     "path" : "~/GitHub/nutterb.github.com/private/index.html",
     "project_path" : "private/index.html",
     "properties" : {
