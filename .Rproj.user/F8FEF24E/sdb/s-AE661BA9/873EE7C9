@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: default\ntitle: Statistics in the Bluegrass\n---\n\nBenjamin Nutter\n===============\n\nEmployment\n----------\n\n-   [Battelle Memorial Institute](www.battelle.org), Statistician IV\n    -   [Bluegrass Chemical Agent destruction Pilot\n        Plant (BGCAPP)](http://www.bechtelparsonsbgcapp.com/)\n-   [Cleveland Clinic Foundation](www.clevelandclinic.org), Senior\n    Biostatistician\n    -   Quantitative Health Sciences\n    -   [Ob-Gyn & Women's Health\n        Institute](http://my.clevelandclinic.org/services/ob-gyn-womens-health)\n\nR Packages\n----------\n\n### Published on CRAN\n\n**Author**\n\n-   [`pixiedust`](https://CRAN.R-project.org/package=pixiedust)\n-   [`HydeNet`](https://CRAN.R-project.org/package=HydeNet)\n-   [`redcapAPI`](https://CRAN.R-project.org/package=redcapAPI)\n-   [`lazyWeave`](https://CRAN.R-project.org/package=lazyWeave)\n\n**Contributor**\n\n-   [`broom`](https://CRAN.R-project.org/package=broom)\n-   [`REDCapR`](https://CRAN.R-project.org/package=REDCapR)\n\nPublications\n------------\n",
+    "created" : 1485521667157.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1361526182",
+    "id" : "873EE7C9",
+    "lastKnownWriteTime" : 1485521680,
+    "last_content_update" : 1485521680853,
+    "path" : "~/GitHub/nutterb.github.com/cv/index.md",
+    "project_path" : "cv/index.md",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

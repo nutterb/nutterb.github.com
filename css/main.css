@@ -24,11 +24,27 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #232323;
+}
+h2 {
+  color: #232323;
+}
+h3 {
+  color: #232323;
+}
+h4 {
+  color: #232323;
+}
+h5 {
+  color: #232323;
+}
+h6 {
+  color: #232323;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #232323;
 }
 footer {
     border-top: 1px solid #d5d5d5;
