@@ -1,2 +1,3 @@
 name: Benjamin Nutter
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
