@@ -42,7 +42,7 @@ h6 {
   color: #c30000;
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.35em;
     line-height: 1.4em;
     color: #232323;
 }
@@ -58,4 +58,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-size: 1.25em;
 }
