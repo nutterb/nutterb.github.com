@@ -1,7 +1,10 @@
 ---
 layout: default
-title: About Benjamin Nutter
+title: Statistics in the Bluegrass
 ---
+
+Benjamin Nutter
+===============
 
 Father and Husband
 ------------------

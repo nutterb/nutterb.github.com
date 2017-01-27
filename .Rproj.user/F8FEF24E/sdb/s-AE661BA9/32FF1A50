@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\noutput: md_document\n---\n\n## Father and Husband\n\nJanelle and I have been married for `r floor(as.numeric(Sys.Date() - as.Date(\"2005-12-28\")) %/% 365.25)` years and have enjoyed living in Portland, Maine, Cleveland, Ohio, and currently Richmond, Kentucky. Our greatest sources of joy are our two daughters who fill our home with laughter, giggles, Legos, and stuffed animals.\n\n## Statistician\n\nI became fascinated with statistical analysis while attending the University of Southern Maine.  I pursued a career in statistics at the Cleveland Clinic and eventually moved to Richmond, Kentucky to support the mission of the Bluegrass Chemical Agent destruction Pilot Plant (BGCAPP).  I am fortunate to do work that I love every day designing studies, performing analyses, and developing reproducible programming solutions for operational support.\n\n## Programming Hobbyist\n\nProgramming in R has been a way for me to explore new solutions to problems I encounter in my work. It has also helped me develop greater knowledge of statistical concepts and communication methods.  \n\nIn time, I hope to become fluent in C# in order to leverage the strengths of R, C#, and SQL Server products.",
+    "contents" : "---\noutput: md_document\n---\n\n# Benjamin Nutter\n\n## Father and Husband\n\nJanelle and I have been married for `r floor(as.numeric(Sys.Date() - as.Date(\"2005-12-28\")) %/% 365.25)` years and have enjoyed living in Portland, Maine, Cleveland, Ohio, and currently Richmond, Kentucky. Our greatest sources of joy are our two daughters who fill our home with laughter, giggles, Legos, and stuffed animals.\n\n## Statistician\n\nI became fascinated with statistical analysis while attending the University of Southern Maine.  I pursued a career in statistics at the Cleveland Clinic and eventually moved to Richmond, Kentucky to support the mission of the Bluegrass Chemical Agent destruction Pilot Plant (BGCAPP).  I am fortunate to do work that I love every day designing studies, performing analyses, and developing reproducible programming solutions for operational support.\n\n## Programming Hobbyist\n\nProgramming in R has been a way for me to explore new solutions to problems I encounter in my work. It has also helped me develop greater knowledge of statistical concepts and communication methods.  \n\nIn time, I hope to become fluent in C# in order to leverage the strengths of R, C#, and SQL Server products.",
     "created" : 1485520536019.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2978863983",
+    "hash" : "2622835523",
     "id" : "32FF1A50",
-    "lastKnownWriteTime" : 1485520550,
-    "last_content_update" : 1485520550161,
+    "lastKnownWriteTime" : 1485520743,
+    "last_content_update" : 1485520743228,
     "path" : "~/GitHub/nutterb.github.com/about/index.Rmd",
     "project_path" : "about/index.Rmd",
     "properties" : {
