@@ -1,8 +1,0 @@
----
-title: "Sample Blog Post"
-author: "Benjamin Nutter"
-date: "January 25, 2017"
-output: html_document
----
-
-This is a samle of writing.
