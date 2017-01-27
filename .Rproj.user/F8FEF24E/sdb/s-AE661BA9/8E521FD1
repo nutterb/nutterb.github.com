@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "body {\n    margin: 60px auto;\n    width: 70%;\n    color: #232323;\n\tbackground-color: #FBFAF7;\n}\nnav ul, footer ul {\n    font-family:'Helvetica', 'Arial', 'Sans-Serif';\n    padding: 0px;\n    list-style: none;\n    font-weight: bold;\n}\nnav ul li, footer ul li {\n    display: inline;\n    margin-right: 20px;\n}\na {\n    text-decoration: none;\n    color: #999;\n}\na:hover {\n    text-decoration: underline;\n}\nh1 {\n    font-size: 3em;\n    font-family:'Helvetica', 'Arial', 'Sans-Serif';\n}\np {\n    font-size: 1.5em;\n    line-height: 1.4em;\n    color: #333;\n}\nfooter {\n    border-top: 1px solid #d5d5d5;\n    font-size: .8em;\n}\n\nul.posts { \n    margin: 20px auto 40px; \n    font-size: 1.5em;\n}\n\nul.posts li {\n    list-style: none;\n}\n",
+    "contents" : "body {\n    margin: 60px auto;\n    width: 70%;\n}\nnav ul, footer ul {\n    font-family:'Helvetica', 'Arial', 'Sans-Serif';\n    padding: 0px;\n    list-style: none;\n    font-weight: bold;\n}\nnav ul li, footer ul li {\n    display: inline;\n    margin-right: 20px;\n}\na {\n    text-decoration: none;\n    color: #999;\n}\na:hover {\n    text-decoration: underline;\n}\nh1 {\n    font-size: 3em;\n    font-family:'Helvetica', 'Arial', 'Sans-Serif';\n}\np {\n    font-size: 1.5em;\n    line-height: 1.4em;\n    color: #333;\n}\nfooter {\n    border-top: 1px solid #d5d5d5;\n    font-size: .8em;\n}\n\nul.posts { \n    margin: 20px auto 40px; \n    font-size: 1.5em;\n}\n\nul.posts li {\n    list-style: none;\n}\n",
     "created" : 1485516283792.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2315744927",
+    "hash" : "1098620804",
     "id" : "8E521FD1",
-    "lastKnownWriteTime" : 1485517225,
-    "last_content_update" : 1485517225043,
+    "lastKnownWriteTime" : 1485517310,
+    "last_content_update" : 1485517310376,
     "path" : "~/GitHub/nutterb.github.com/css/main.css",
     "project_path" : "css/main.css",
     "properties" : {
