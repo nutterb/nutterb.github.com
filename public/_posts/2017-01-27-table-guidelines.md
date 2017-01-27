@@ -10,7 +10,7 @@ first such idea occurred very early on as I was trying to map out all of
 the features I thought were necessary for a complete package. As I
 considered the possibility of complex coloring schemes, I thought it
 could be useful to generate legends to accompany tables.
-
+<!--excerpt-->
 Table legends weren't an idea I pursused for long because I knew it was
 probably a little beyond my coding capabilities. As I've learned more,
 however, I've decided that it's a terrible idea to begin with. Tables,

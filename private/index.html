@@ -7,7 +7,7 @@ title: Religiously Inconsistent
 
 	  {% for post in site.categories.private %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	    <p>{{ post.excerpt }}</p></li>
+	    <p style='font-size:10pt'>{{ post.excerpt }}</p></li>
 	    <hr/>
 	  {% endfor %}
 	</ul>
