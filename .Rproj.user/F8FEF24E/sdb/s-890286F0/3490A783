@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: default\ntitle: Statistics in the Bluegrass\n---\n\t<h1>{{ page.title }}</h1>\n\t<ul class=\"posts\">\n\n\t  {% for post in site.posts %}\n\t    <li><span>{{ post.date | date_to_string }}</span> » <a href=\"{{ post.url }}\" title=\"{{ post.title }}\">{{ post.title }}</a></li>\n\t  {% endfor %}\n\t</ul>\n",
+    "created" : 1485542202457.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2686847376",
+    "id" : "3490A783",
+    "lastKnownWriteTime" : 1485539744,
+    "last_content_update" : 1485539744,
+    "path" : "~/GitHub/nutterb.github.com/blog/index.html",
+    "project_path" : "blog/index.html",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "html"
+}
