@@ -9,10 +9,10 @@ Benjamin Nutter
 Employment
 ----------
 
--   [Battelle Memorial Institute](www.battelle.org), Statistician IV
+-   [Battelle Memorial Institute](http://www.battelle.org), Statistician IV
     -   [Bluegrass Chemical Agent destruction Pilot
         Plant (BGCAPP)](http://www.bechtelparsonsbgcapp.com/)
--   [Cleveland Clinic Foundation](www.clevelandclinic.org), Senior
+-   [Cleveland Clinic Foundation](http://www.clevelandclinic.org), Senior
     Biostatistician
     -   Quantitative Health Sciences
     -   [Ob-Gyn & Women's Health

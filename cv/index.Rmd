@@ -6,9 +6,9 @@ output: md_document
 
 ## Employment
 
-* [Battelle Memorial Institute](www.battelle.org), Statistician IV
+* [Battelle Memorial Institute](http://www.battelle.org), Statistician IV
     + [Bluegrass Chemical Agent destruction Pilot Plant (BGCAPP)](http://www.bechtelparsonsbgcapp.com/)
-* [Cleveland Clinic Foundation](www.clevelandclinic.org), Senior Biostatistician
+* [Cleveland Clinic Foundation](http://www.clevelandclinic.org), Senior Biostatistician
     + Quantitative Health Sciences
     + [Ob-Gyn & Women's Health Institute](http://my.clevelandclinic.org/services/ob-gyn-womens-health)
   
