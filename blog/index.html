@@ -8,5 +8,6 @@ title: Statistics in the Bluegrass
 	  {% for post in site.categories.public %}
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
 	    <p style='font-size:10pt'>{{ post.excerpt }}</p></li>
+	    <hr/>
 	  {% endfor %}
 	</ul>
