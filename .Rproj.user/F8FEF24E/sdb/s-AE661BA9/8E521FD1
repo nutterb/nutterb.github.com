@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "body {\n  padding:10px 50px 0 0;\n  font-family:\"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\tfont-size: 14px;\n\tcolor: #232323;\n\tbackground-color: #FBFAF7;\n\tmargin: 0;\n\tline-height: 1.8em;\n\t-webkit-font-smoothing: antialiased;\n\n}\n\nh1, h2, h3, h4, h5, h6 {\n  color:#232323;\n  margin:36px 0 10px;\n}\n\np, ul, ol, table, dl {\n  margin:0 0 22px;\n}\nnav ul, footer ul {\n    font-family:'Helvetica', 'Arial', 'Sans-Serif';\n    padding: 0px;\n    list-style: none;\n    font-weight: bold;\n}\nnav ul li, footer ul li {\n    display: inline;\n    margin-right: 20px;\n}\na {\n    text-decoration: none;\n    color: #999;\n}\na:hover {\n    text-decoration: underline;\n}\nh1 {\n    font-size: 3em;\n    font-family:'Helvetica', 'Arial', 'Sans-Serif';\n}\np {\n    font-size: 1.5em;\n    line-height: 1.4em;\n    color: #333;\n}\nfooter {\n    border-top: 1px solid #d5d5d5;\n    font-size: .8em;\n}\n\nul.posts { \n    margin: 20px auto 40px; \n    font-size: 1.5em;\n}\n\nul.posts li {\n    list-style: none;\n}\n",
+    "contents" : "body {\n  padding:10px 50px 0 0;\n  font-family:\"Helvetica Neue\", Helvetica, Arial, sans-serif;\n\tfont-size: 14px;\n\tcolor: #232323;\n\tbackground-color: #FBFAF7;\n\tmargin: 0;\n\tline-height: 1.8em;\n\t-webkit-font-smoothing: antialiased;\n\n}\nnav ul, footer ul {\n    font-family:'Helvetica', 'Arial', 'Sans-Serif';\n    padding: 0px;\n    list-style: none;\n    font-weight: bold;\n}\nnav ul li, footer ul li {\n    display: inline;\n    margin-right: 20px;\n}\na {\n    text-decoration: none;\n    color: #999;\n}\na:hover {\n    text-decoration: underline;\n}\nh1 {\n    font-size: 3em;\n    font-family:'Helvetica', 'Arial', 'Sans-Serif';\n}\np {\n    font-size: 1.5em;\n    line-height: 1.4em;\n    color: #333;\n}\nfooter {\n    border-top: 1px solid #d5d5d5;\n    font-size: .8em;\n}\n\nul.posts { \n    margin: 20px auto 40px; \n    font-size: 1.5em;\n}\n\nul.posts li {\n    list-style: none;\n}\n",
     "created" : 1485516283792.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2739377889",
+    "hash" : "3461015350",
     "id" : "8E521FD1",
-    "lastKnownWriteTime" : 1485516726,
-    "last_content_update" : 1485516726073,
+    "lastKnownWriteTime" : 1485516818,
+    "last_content_update" : 1485516818332,
     "path" : "~/GitHub/nutterb.github.com/css/main.css",
     "project_path" : "css/main.css",
     "properties" : {

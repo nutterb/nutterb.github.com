@@ -9,15 +9,6 @@ body {
 	-webkit-font-smoothing: antialiased;
 
 }
-
-h1, h2, h3, h4, h5, h6 {
-  color:#232323;
-  margin:36px 0 10px;
-}
-
-p, ul, ol, table, dl {
-  margin:0 0 22px;
-}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
