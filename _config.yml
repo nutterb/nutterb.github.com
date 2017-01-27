@@ -3,3 +3,4 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 exclude:
   - "*.Rmd"
+excerpt_separator: "<!--excerpt-->"

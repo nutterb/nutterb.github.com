@@ -6,6 +6,8 @@ date: 2017-01-27
 
 Our Institute topic this week included the [Bible and the Book of Mormon](https://www.lds.org/manual/teachings-and-doctrine-of-the-book-of-mormon-teacher-manual/lesson-7-the-book-of-mormon-and-the-bible?lang=eng).  As you might expect, [Ezekiel 37:15-19](https://www.lds.org/scriptures/ot/ezek/37.15-19?lang=eng#14) was a prominent reference in the reading material.  
 
+<!--excerpt-->
+
 > The word of the Lord came again unto me, saying,
 
 > Moreover, thou son of man, take thee one stick, and write upon it, For Judah, and for the children of Israel his companions: then take another stick, and write upon it, For Joseph, the stick of Ephraim, and for all the house of Israel his companions:
