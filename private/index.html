@@ -6,6 +6,6 @@ title: Religiously Inconsistent
 	<ul class="posts">
 
 	  {% for post in site.private %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li><span>{{ private.date | date_to_string }}</span> » <a href="{{ private.url }}" title="{{ private.title }}">{{ private.title }}</a></li>
 	  {% endfor %}
 	</ul>
