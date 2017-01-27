@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Stick of Joseph: _not_ the Book of Mormon"
+title: "The Stick of Joseph: <i>Not</i> the Book of Mormon"
 date: 2017-01-27
 ---
 
