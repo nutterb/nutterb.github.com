@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: default\ntitle: About Benjamin Nutter\n---\n\nFather and Husband\n------------------\n\nJanelle and I have been married for 11 years and have enjoyed living in\nPortland, Maine, Cleveland, Ohio, and currently Richmond, Kentucky. Our\ngreatest sources of joy are our two daughters who fill our home with\nlaughter, giggles, Legos, and stuffed animals.\n\nStatistician\n------------\n\nI became fascinated with statistical analysis while attending the\nUniversity of Southern Maine. I pursued a career in statistics at the\nCleveland Clinic and eventually moved to Richmond, Kentucky to support\nthe mission of the Bluegrass Chemical Agent destruction Pilot Plant\n(BGCAPP). I am fortunate to do work that I love every day designing\nstudies, performing analyses, and developing reproducible programming\nsolutions for operational support.\n\nProgramming Hobbyist\n--------------------\n\nProgramming in R has been a way for me to explore new solutions to\nproblems I encounter in my work. It has also helped me develop greater\nknowledge of statistical concepts and communication methods.\n\nIn time, I hope to become fluent in C\\# in order to leverage the\nstrengths of R, C\\#, and SQL Server products.\n",
+    "created" : 1485520572720.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "821187383",
+    "id" : "67641C1C",
+    "lastKnownWriteTime" : 1485520601,
+    "last_content_update" : 1485520601764,
+    "path" : "~/GitHub/nutterb.github.com/about/index.md",
+    "project_path" : "about/index.md",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}

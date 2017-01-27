@@ -1,0 +1,33 @@
+---
+layout: default
+title: About Benjamin Nutter
+---
+
+Father and Husband
+------------------
+
+Janelle and I have been married for 11 years and have enjoyed living in
+Portland, Maine, Cleveland, Ohio, and currently Richmond, Kentucky. Our
+greatest sources of joy are our two daughters who fill our home with
+laughter, giggles, Legos, and stuffed animals.
+
+Statistician
+------------
+
+I became fascinated with statistical analysis while attending the
+University of Southern Maine. I pursued a career in statistics at the
+Cleveland Clinic and eventually moved to Richmond, Kentucky to support
+the mission of the Bluegrass Chemical Agent destruction Pilot Plant
+(BGCAPP). I am fortunate to do work that I love every day designing
+studies, performing analyses, and developing reproducible programming
+solutions for operational support.
+
+Programming Hobbyist
+--------------------
+
+Programming in R has been a way for me to explore new solutions to
+problems I encounter in my work. It has also helped me develop greater
+knowledge of statistical concepts and communication methods.
+
+In time, I hope to become fluent in C\# in order to leverage the
+strengths of R, C\#, and SQL Server products.
