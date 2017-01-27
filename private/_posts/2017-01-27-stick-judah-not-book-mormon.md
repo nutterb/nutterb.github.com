@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_private
 title: "The Stick of Joseph: <i>Not</i> the Book of Mormon"
 date: 2017-01-27
 ---
