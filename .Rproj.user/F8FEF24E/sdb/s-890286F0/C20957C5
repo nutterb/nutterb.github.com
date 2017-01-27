@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nlayout: default\ntitle: Statistics in the Bluegrass\n---\n<div class=\"blurb\">\n\t<h1>Benjamin Nutter</h1>\n</div><!-- /.blurb -->\n\n* M.S. Biostatistics\n* [Battelle Memorial Institute](http://www.battelle.org)\n* [Bluegrass Chemical Agent destruction Pilot Plant (BGCAPP)](http://bechtelparsonsbgcapp.com)\n* R Programmer",
+    "created" : 1485538804919.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2268145770",
+    "id" : "C20957C5",
+    "lastKnownWriteTime" : 1485539310,
+    "last_content_update" : 1485539310560,
+    "path" : "~/GitHub/nutterb.github.com/index.md",
+    "project_path" : "index.md",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
