@@ -1,8 +1,4 @@
-<!--
----
-layout: default
----
--->
+
 <h1>
 Benjamin Nutter
 </h1>
