@@ -1,9 +1,5 @@
 ---
-output: 
-  html_document:
-    css: null
-    theme: null
-    self_contained: false
+output: md_document
 ---
 <!--
 ---
@@ -16,7 +12,7 @@ library(pixiedust)
 
 <h1>Benjamin Nutter</h1>
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
+```{r, echo = FALSE, warning = FALSE, message = FALSE, results = 'asis'}
 data.frame(
   col1 = c("<a href = 'http://battelle.org'><img src = 'images/battelle_logo.jpg', title = 'Battelle Memorial Institute', height = 225px, width = 225px></a>", 
            "<a href = 'http://bechtelparsonsbgcapp.com'><img src = 'images/bgcapp_logo.jpg', title = 'BGCAPP', height = 225px, width = 225px></a>"),
@@ -35,5 +31,6 @@ data.frame(
            height_units = "px",
            width = 225,
            width_units = "px") %>%
-  sprinkle_print_method("html")
+  as.data.frame() %>%
+  knitr::kable(format = "markdown")
 ```
