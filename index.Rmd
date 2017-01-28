@@ -2,10 +2,7 @@
 output: md_document
 ---
 <!--
----
-layout: default
-title: Benjamin Nutter
----
+
 -->
 ```{r, include = FALSE, message = FALSE, warning = FALSE}
 library(pixiedust)
