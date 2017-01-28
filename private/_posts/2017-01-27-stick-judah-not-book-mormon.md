@@ -2,6 +2,7 @@
 layout: post_private
 title: "The Stick of Joseph: <i>Not</i> the Book of Mormon"
 date: 2017-01-27
+comments: true
 ---
 
 Our Institute topic this week included the [Bible and the Book of Mormon](https://www.lds.org/manual/teachings-and-doctrine-of-the-book-of-mormon-teacher-manual/lesson-7-the-book-of-mormon-and-the-bible?lang=eng).  As you might expect, [Ezekiel 37:15-19](https://www.lds.org/scriptures/ot/ezek/37.15-19?lang=eng#14) was a prominent reference in the reading material.  
