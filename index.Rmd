@@ -22,7 +22,7 @@ data.frame(
            "<a href = 'http://nutterb.github.io/ItCanBeShown/'><img src = 'images/ItCanBeShown.png', title = 'Statistical Notes', height = 225px, width = 225px></a>")
 ) %>%
   dust() %>%
-  sprinkle_colnames("Employment", "Hobbies", "Educaion") %>%
+  sprinkle_colnames("Employment", "Hobbies", "Education") %>%
   sprinkle(font_color = "#c30000",
            halign = "center",
            part = "head") %>%

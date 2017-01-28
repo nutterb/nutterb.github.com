@@ -15,7 +15,7 @@ Employment
 Hobbies
 </th>
 <th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
-Educaion
+Education
 </th>
 </tr>
 <tr>
