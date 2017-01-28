@@ -31,5 +31,5 @@ data.frame(
            height_units = "px",
            width = 225,
            width_units = "px") %>%
-  sprinkle_print_method("markdown")
+  sprinkle_print_method("html")
 ```
