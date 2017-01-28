@@ -1,12 +1,39 @@
+<!--
 ---
 layout: default
-title: Statistics in the Bluegrass
+title: Benjamin Nutter
 ---
-<div class="blurb">
-	<h1>Benjamin Nutter</h1>
-</div><!-- /.blurb -->
-
-* M.S. Biostatistics
-* [Battelle Memorial Institute](http://www.battelle.org)
-* [Bluegrass Chemical Agent destruction Pilot Plant (BGCAPP)](http://bechtelparsonsbgcapp.com)
-* R Programmer
+-->
+<!--html_preserve-->
+<table align="center" style="border-collapse:collapse;">
+<tr>
+<th colspan="1" ; rowspan="1" ; style="text-align:left;">
+</th>
+<th colspan="1" ; rowspan="1" ; style="text-align:left;">
+</th>
+<th colspan="1" ; rowspan="1" ; style="text-align:left;">
+</th>
+</tr>
+<tr>
+<td colspan="1" ; rowspan="1" ; style="text-align:left;width:225px;">
+<a href = 'http://battelle.org'><img src = 'images/battelle_logo.jpg', title = 'Battelle Memorial Institute'></a>
+</td>
+<td colspan="1" ; rowspan="1" ; style="text-align:left;width:225px;">
+<a href = 'http://bechtelparsonsbgcapp.com'><img src = 'images/bgcapp_logo.jpg', title = 'BGCAPP'></a>
+</td>
+<td colspan="1" ; rowspan="1" ; style="text-align:left;width:225px;">
+<a href = 'http://usm.edu'><img src = 'images/usm_logo.png', title = 'M.S. Statistics'></a>
+</td>
+</tr>
+<tr>
+<td colspan="1" ; rowspan="1" ; style="text-align:left;width:225px;">
+<a href = 'http://r-project.org'><img src = 'images/Rlogo.png', title = 'R Programming'></a>
+</td>
+<td colspan="1" ; rowspan="1" ; style="text-align:left;width:225px;">
+</td>
+<td colspan="1" ; rowspan="1" ; style="text-align:left;width:225px;">
+<a href = 'http://nutterb.github.io/ItCanBeShown/'><img src = 'images/ItCanBeShown.png', title = 'Statistical Notes'></a>
+</td>
+</tr>
+</table>
+</br></br><!--/html_preserve-->
