@@ -6,8 +6,8 @@ layout: default
 Benjamin Nutter
 </h1>
 Why is this failing?
-<!--html_preserve-->
-<table align="center" style="border-collapse:collapse;">
+
+<!--html_preserve--><table align="center" style="border-collapse:collapse;">
 <tr>
 <th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
 Employment
