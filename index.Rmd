@@ -1,5 +1,9 @@
 ---
-output: md_document
+output: 
+  html_document:
+    css: null
+    theme: null
+    self_contained: false
 ---
 <!--
 ---
