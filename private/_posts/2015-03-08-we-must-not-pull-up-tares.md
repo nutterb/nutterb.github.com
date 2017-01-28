@@ -5,7 +5,7 @@ date: 2015-03-08
 comments: true
 ---
 
-_The following was originally posted on_ Uncommon Dissent.
+_The following was originally posted on_ [Uncommon Dissent](http://myuncommondissent.blogspot.com/).
 
 > The kingdom of heaven is likened unto a man which sowed good seed in his field:
 > But while men slept, his enemy came and sowed tares among the wheat, and went his way.

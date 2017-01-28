@@ -5,7 +5,7 @@ date: 2015-11-08
 comments: true
 ---
 
-_The following was originally posted on_ Uncommon Dissent.
+_The following was originally posted on_ [Uncommon Dissent](http://myuncommondissent.blogspot.com/).
 
 Yeah, I'm chipping in again.  Janelle has been bugging me to blog something for weeks (or months, I've lost track).  I've been busy with new hobbies though--I've published three new R packages in the past few months, am preparing a fourth, and have a cool new wood lathe that I love playing with (more on that another day).
 <!--excerpt-->
