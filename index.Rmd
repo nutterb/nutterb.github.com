@@ -23,6 +23,8 @@ data.frame(
   dust() %>%
   sprinkle_colnames("", "", "") %>%
   sprinkle(cols = 1:3, 
+           height = 225,
+           height_units = "px",
            width = 225,
            width_units = "px") %>%
   sprinkle_print_method("html")
