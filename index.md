@@ -7,7 +7,7 @@ Benjamin Nutter
 </h1>
 Why is this failing?
 <table align="center" style="border-collapse:collapse;">
-<tr>
+<thead><tr>
 <th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
 Employment
 </th>
@@ -18,6 +18,7 @@ Hobbies
 Education
 </th>
 </tr>
+</thead>
 <tr>
 <td colspan="1" ; rowspan="1" ; style="text-align:left;height:225px;width:225px;">
 <a href = 'http://battelle.org'><img src = 'images/battelle_logo.jpg', title = 'Battelle Memorial Institute', height = 225px, width = 225px></a>
