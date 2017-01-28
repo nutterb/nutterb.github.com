@@ -1,18 +1,16 @@
+---
+layout: default
+---
 
-<h1>
-Benjamin Nutter
-</h1>
-<!--html_preserve-->
+<h1>Benjamin Nutter</h1>
+
 <table align="center" style="border-collapse:collapse;">
 <tr>
-<th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
-Employment
+<th colspan="1" ; rowspan="1" ; style="text-align:left;">
 </th>
-<th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
-Hobbies
+<th colspan="1" ; rowspan="1" ; style="text-align:left;">
 </th>
-<th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
-Education
+<th colspan="1" ; rowspan="1" ; style="text-align:left;">
 </th>
 </tr>
 <tr>
@@ -20,7 +18,7 @@ Education
 <a href = 'http://battelle.org'><img src = 'images/battelle_logo.jpg', title = 'Battelle Memorial Institute', height = 225px, width = 225px></a>
 </td>
 <td colspan="1" ; rowspan="1" ; style="text-align:left;height:225px;width:225px;">
-<a href = 'http://r-project.org'><img src = 'images/Rlogo.png', title = 'R Programming', height = 225px, width = 225px></a>
+<a href = 'http://bechtelparsonsbgcapp.com'><img src = 'images/bgcapp_logo.jpg', title = 'BGCAPP', height = 225px, width = 225px></a>
 </td>
 <td colspan="1" ; rowspan="1" ; style="text-align:left;height:225px;width:225px;">
 <a href = 'http://usm.maine.edu'><img src = 'images/usm_logo.png', title = 'M.S. Statistics', height = 225px, width = 225px></a>
@@ -28,7 +26,7 @@ Education
 </tr>
 <tr>
 <td colspan="1" ; rowspan="1" ; style="text-align:left;height:225px;width:225px;">
-<a href = 'http://bechtelparsonsbgcapp.com'><img src = 'images/bgcapp_logo.jpg', title = 'BGCAPP', height = 225px, width = 225px></a>
+<a href = 'http://r-project.org'><img src = 'images/Rlogo.png', title = 'R Programming', height = 225px, width = 225px></a>
 </td>
 <td colspan="1" ; rowspan="1" ; style="text-align:left;height:225px;width:225px;">
 </td>
@@ -37,4 +35,4 @@ Education
 </td>
 </tr>
 </table>
-</br></br><!--/html_preserve-->
+</br></br>
