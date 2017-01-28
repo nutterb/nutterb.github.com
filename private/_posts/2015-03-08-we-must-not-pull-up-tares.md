@@ -15,6 +15,9 @@ _The following was originally posted on_ Uncommon Dissent.
 > But he said, Nay; lest while ye gather up the tares, ye root up also the wheat with them. 
 > Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn. (Matt. 13:24-30).
 
+<!--excerpt-->
+
+
 Jesus was a story teller.
 
 For practically two millenia, people have been mining his stories for deep, hidden truths.  His parables are known throughout much of the world and are the focus of books, articles, web pages, and sermons.

@@ -10,6 +10,7 @@ _The following was originally posted on_ Uncommon Dissent.
 It's a beautiful day in Kentucky. The Sun has been out and the landscape is lush and green. I managed to successfully organize all of my documentation for work today in a new R package that should make a very smooth process for compiling our required reports. And I got to run around the back yard with the girls and play board games with Julie. It really seems like the perfect day.
 
 But I am sad.
+<!--excerpt-->
 
 I am sad because I looked at my Facebook feed and saw friend after friend celebrating a woman giving her son a beating when she found him participating in the Baltimore riots.
 

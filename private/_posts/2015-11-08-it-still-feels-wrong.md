@@ -8,6 +8,7 @@ comments: true
 _The following was originally posted on_ Uncommon Dissent.
 
 Yeah, I'm chipping in again.  Janelle has been bugging me to blog something for weeks (or months, I've lost track).  I've been busy with new hobbies though--I've published three new R packages in the past few months, am preparing a fourth, and have a cool new wood lathe that I love playing with (more on that another day).
+<!--excerpt-->
 
 But the events of this week in Mormondom were almost too big to let go.  I was ready to just let it pass, but I've come across too many statements from people frustrated by the many people they that are saying "I wasn't okay with the Church's new policies, either.  But then I prayed about it, and now I am.  Perhaps you should pray, too."
 
