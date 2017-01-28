@@ -1,10 +1,8 @@
-<!--
 ---
 layout: default
 title: Benjamin Nutter
 ---
--->
-<!--html_preserve-->
+
 <table align="center" style="border-collapse:collapse;">
 <tr>
 <th colspan="1" ; rowspan="1" ; style="text-align:left;">
@@ -36,4 +34,4 @@ title: Benjamin Nutter
 </td>
 </tr>
 </table>
-</br></br><!--/html_preserve-->
+</br></br>
