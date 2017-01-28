@@ -5,7 +5,6 @@ layout: default
 <h1>
 Benjamin Nutter
 </h1>
-{% raw %}
 <table align="center" style="border-collapse:collapse;">
 <tr>
 <th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
@@ -40,4 +39,3 @@ Education
 </td>
 </tr>
 </table>
-{% endraw %}
