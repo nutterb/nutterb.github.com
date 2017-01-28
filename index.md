@@ -7,9 +7,9 @@ Benjamin Nutter
 </h1>
 Why is this failing?
 
-<!--html_preserve--><table align="center" style="border-collapse:collapse;">
+<table align="center" style="border-collapse:collapse;">
 <tr>
-<th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
+<!--html_preserve--><th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
 Employment
 </th>
 <th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
@@ -38,7 +38,7 @@ Education
 </td>
 <td colspan="1" ; rowspan="1" ; style="text-align:left;height:225px;width:225px;">
 <a href = 'http://nutterb.github.io/ItCanBeShown/'><img src = 'images/ItCanBeShown.png', title = 'Statistical Notes', height = 225px, width = 225px></a>
-</td>
+</td><!--/html_preserve-->
 </tr>
 </table>
-<!--/html_preserve-->
+
