@@ -5,19 +5,19 @@ layout: default
 <h1>
 Benjamin Nutter
 </h1>
-Why is this failing?
+Why is this failing? 2
 
 <table align="center" style="border-collapse:collapse;">
 <tr>
-<!--html_preserve--><th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
-Employment
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
-Hobbies
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
-Education
-</th>
+  <th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
+  Employment
+  </th>
+  <th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
+  Hobbies
+  </th>
+  <th colspan="1" ; rowspan="1" ; style="text-align:center;color:rgba(195,0,0,1);">
+  Education
+  </th>
 </tr>
 <tr>
 <td colspan="1" ; rowspan="1" ; style="text-align:left;height:225px;width:225px;">
@@ -38,7 +38,7 @@ Education
 </td>
 <td colspan="1" ; rowspan="1" ; style="text-align:left;height:225px;width:225px;">
 <a href = 'http://nutterb.github.io/ItCanBeShown/'><img src = 'images/ItCanBeShown.png', title = 'Statistical Notes', height = 225px, width = 225px></a>
-</td><!--/html_preserve-->
+</td>
 </tr>
 </table>
 
