@@ -2,6 +2,7 @@
 layout: post
 title: "Initial Thoughts on Table Guidelines"
 date: 2017-01-27
+comments: true
 ---
 
 During my (mis)adventures of writing `pixiedust`, I've sometimes found
