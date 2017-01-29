@@ -14,7 +14,7 @@ Berea College Institute of Religion
 ### Summer 2017 Wicked Road Trip
 * July 14 - 16, 2017
 * Hill Cumorah 
-* Sacred 
+* Sacred Grove
 * Kirtland
 
 Commitments due by March 31, 2017
