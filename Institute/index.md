@@ -2,8 +2,8 @@
 layout: default_private
 ---
 
-title: Berea College Institute of Religion
-==========================================
+Berea College Institute of Religion
+===================================
 
 ### Current Syllabus
 
