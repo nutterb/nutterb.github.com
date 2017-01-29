@@ -17,4 +17,4 @@ Berea College Institute of Religion
 * Sacred 
 * Kirtland
 
-Commitments due by March1, 2017
+Commitments due by March 31, 2017
