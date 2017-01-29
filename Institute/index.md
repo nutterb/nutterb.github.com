@@ -3,6 +3,6 @@ layout: default_private
 title: Berea College Institute of Religion
 ---
 <h1>{{ page.title }}</h1>
-<h3>Current Syllabus </h3>
-<h3>Past Syllabi </h3>
-<h3>Summer 2017 Wicked Road Trip </h3>
+### Current Syllabus
+### Past Syllabi
+### Summer 2017 Wicked Road Trip
