@@ -6,6 +6,7 @@ Berea College Institute of Religion
 ===================================
 
 ### Current Syllabus
+[Spring 2017](Berea-Spring2017-Syllabus-1.pdf)
 
 ### Past Syllabi
 
