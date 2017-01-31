@@ -19,6 +19,8 @@ Now read this quote:
 
 What does it mean to you that an Apostle of the Lord said this?
 
+<!--excerpt-->
+
 Let's consider now what the Book of Mormon teaches us about the role of prophets.  Read the following:
 
 * 1 Nephi 1:4 - 15, 18
