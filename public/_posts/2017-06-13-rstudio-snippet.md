@@ -39,7 +39,8 @@ While R Studio doesn't offer script templates, per se, it does support
 code snippets. And truthfully, they're even better. A script template
 would be a static template, while code snippets let you both insert code
 and designate places you can quickly tab to in order to insert the
-relevant code for your current needs.
+relevant code for your current needs. (Read more about it at [R
+Studio](https://support.rstudio.com/hc/en-us/articles/204463668-Code-Snippets))
 
 As an example, one of the default code snippets is
 
