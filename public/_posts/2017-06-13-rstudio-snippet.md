@@ -229,6 +229,11 @@ Edit Snippets
             ${0}
         }
 
+    snippet ifelse_nutter
+        ifelse(test = ${1},
+               yes = ${2},
+               no = ${3})
+
     snippet fun
         ${1:name} <- function(${2}) 
         {
@@ -253,24 +258,24 @@ Edit Snippets
             ${2} = ${3}
         )
 
-    snippet apply
+    snippet apply_snip
         apply(X = ${1}, 
                   MARGIN = ${2}, 
                   FUN = ${3})
 
-    snippet lapply
+    snippet lapply_snip
         lapply(X = ${1}, 
                    FUN = ${2})
 
-    snippet sapply
+    snippet sapply_snip
         sapply(X = ${1}, 
                FUN = ${2})
 
-    snippet mapply
+    snippet mapply_snip
         mapply(FUN = ${1}, 
                ${2})
 
-    snippet vapply
+    snippet vapply_snip
         vapply(X = ${1}, 
                FUN = ${2}, 
                FUN.VALUE = ${3})
