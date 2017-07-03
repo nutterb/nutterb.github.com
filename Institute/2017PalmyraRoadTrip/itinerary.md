@@ -1,5 +1,6 @@
 ---
 title: "2017 Palmyra Road Trip Itinerary"
+layout: default_private
 ---
 
 ### Thursday, 6 July 2017
@@ -13,7 +14,7 @@ We will be expecting you anytime after 6:00 PM.  We will sleep at the Nutter's h
 
 * **4:00 AM** Depart for _Smith Family Farm, Palmyra, NY_
 * **2:00 PM** Arrive at Smith Family Farm / Sacred Grove
-* **5:00 PM** Depart for _Seneca Lake Camp_ 5005 East Lake Road, Romulus, NY
+* **5:00 PM** Depart for _Seneca Lake Camp_ 5005 East Lake Road, Romulus, NY (RESERVATION: 23359)
 * **6:00 PM** Prepare dinner, relax
 
 ### Saturday, 8 July 2017
@@ -24,7 +25,7 @@ We will be expecting you anytime after 6:00 PM.  We will sleep at the Nutter's h
 * **12:00 PM** Depart for _Kirtland Temple_ 9020 Chillicothe Rd, Kirtland, OH. Stop for lunch on the way out of Niagara.
 * **3:30 PM** Kirtland Temple Tour
 * **4:30 PM** Kirtland Historic Sites
-* **6:00 PM** Depart for _Punderson State Park_, 11755 Kinsman Rd, Newbury Township, OH
+* **6:00 PM** Depart for _Punderson State Park_, 11755 Kinsman Rd, Newbury Township, OH (RESERVATION: 2-7643339)
 * **6:30 PM** Prepare dinner, relax, testimony meeting / devotional
 
 ### Sunday, 9 July 2017

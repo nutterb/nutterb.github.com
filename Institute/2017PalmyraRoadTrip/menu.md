@@ -1,5 +1,6 @@
 ---
 title: "Menu"
+layout: default_private
 ---
 
 ### Friday, 7 July
