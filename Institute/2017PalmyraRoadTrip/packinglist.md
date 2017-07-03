@@ -1,5 +1,6 @@
 ---
 title: "2017 Palmyra Road Trip Packing List"
+layout: default_private
 ---
 
 ### Clothing

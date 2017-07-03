@@ -1,5 +1,6 @@
 ---
 title: "2017 Palmyra Road Trip Maps"
+layout: default_private
 ---
 
 * [Richmond, KY to Smith Family Farm - (9:29)](https://www.google.com/maps/dir/Richmond,+Kentucky/Smith+Family+Farm+(Museum),+Palmyra,+NY/@40.3763081,-83.1788597,7z/am=t/data=!4m14!4m13!1m5!1m1!1s0x8842fd9358d6a67f:0xc8b6b847c0a32479!2m2!1d-84.2946539!2d37.7478572!1m5!1m1!1s0x89d12bad28d080c7:0x41442c6cb9bda105!2m2!1d-77.2413011!2d43.0402568!3e0)
