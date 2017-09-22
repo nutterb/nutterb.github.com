@@ -56,7 +56,7 @@ generate a `dust` object summarizing the linear model.
 
 Here's how such a script looks:
 
----
+    ---
     title: Report
     output: html_document
     ---
