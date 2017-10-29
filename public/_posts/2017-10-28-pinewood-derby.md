@@ -8,7 +8,7 @@ date: 2017-10-28
 One of my colleagues has his own [Pinewood
 Derby](https://en.wikipedia.org/wiki/Pinewood_derby) track. He picked it
 up when he was teaching high school science, and used Pinewood Derby as
-a science activity. He also uses and electronic timing system that keeps
+a science activity. He also uses an electronic timing system that keeps
 produces all of the race data.
 
 <!--excerpt-->
@@ -69,8 +69,7 @@ simple approach is to use a linear model.
         data = PinewoodDerby) 
 
     fit_lm %>% 
-      dust() %>% 
-      sprinkle(pad = 4)
+      dust()
 
 <table>
 <thead>
