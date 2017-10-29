@@ -10,7 +10,7 @@ date: 2017-10-28
 ---
 -->
 
-One of my colleagues has his own [Pinewood Derby](https://en.wikipedia.org/wiki/Pinewood_derby) track.  He picked it up when he was teaching high school science, and used Pinewood Derby as a science activity.  He also uses and electronic timing system that keeps produces all of the race data.  
+One of my colleagues has his own [Pinewood Derby](https://en.wikipedia.org/wiki/Pinewood_derby) track.  He picked it up when he was teaching high school science, and used Pinewood Derby as a science activity.  He also uses an electronic timing system that keeps produces all of the race data.  
 
 <!--excerpt-->
 
@@ -25,7 +25,7 @@ library(lme4)
 library(magrittr)
 library(pixiedust)
 
-options(pixiedust_print_method = "html")
+options(pixiedust_print_method = "markdown")
 
 load("PinewoodDerby.Rdata")
 
@@ -66,8 +66,7 @@ fit_lm <-
     data = PinewoodDerby) 
 
 fit_lm %>% 
-  dust() %>% 
-  sprinkle(pad = 4)
+  dust()
 ```
 
 That's a pretty high p-value, which doesn't give us much reason to believe that the lanes are different.  Another approach we could take is to use a mixed effects model. This would let us declare each car as a random factor.  
@@ -78,8 +77,7 @@ fit_me <-
         data = PinewoodDerby) 
 
 fit_me %>% 
-   dust() %>% 
-   sprinkle(pad = 4)
+   dust() 
 ```
 
 What's interesting between these two models is that the coefficients didn't change at all between them, but the t-statistics are a bit larger in the mixed model.  The mixed model thinks there's a stronger case for the lanes being a little bit different.  It makes this conclusion by recognizing that there are differences between the cars themselves.  In fact, we can get very similar results with the linear model

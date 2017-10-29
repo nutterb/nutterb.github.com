@@ -23,7 +23,7 @@ data](https://github.com/nutterb/nutterb.github.com/blob/master/public/_posts/Pi
     library(magrittr)
     library(pixiedust)
 
-    options(pixiedust_print_method = "html")
+    options(pixiedust_print_method = "markdown")
 
     load("PinewoodDerby.Rdata")
 
@@ -72,95 +72,47 @@ simple approach is to use a linear model.
       dust() %>% 
       sprinkle(pad = 4)
 
-<!--html_preserve-->
-<table align="center" style="border-collapse:collapse;">
-<tr>
-<th colspan="1" ; rowspan="1" ; style="text-align:left;">
-term
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:right;">
-estimate
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:right;">
-std.error
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:right;">
-statistic
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:right;">
-p.value
-</th>
+<table>
+<thead>
+<tr class="header">
+<th align="left">term</th>
+<th align="right">estimate</th>
+<th align="right">std.error</th>
+<th align="right">statistic</th>
+<th align="right">p.value</th>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-(Intercept)
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-3.5709875
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.0953411
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-37.4548689
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0
-</td>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">(Intercept)</td>
+<td align="right">3.5709875</td>
+<td align="right">0.0953411</td>
+<td align="right">37.4548689</td>
+<td align="right">0</td>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-lane2
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.0813344
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.1348326
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.6032247
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.547461
-</td>
+<tr class="even">
+<td align="left">lane2</td>
+<td align="right">0.0813344</td>
+<td align="right">0.1348326</td>
+<td align="right">0.6032247</td>
+<td align="right">0.547461</td>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-lane3
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.0736063
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.1348326
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.5459082
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.5861098
-</td>
+<tr class="odd">
+<td align="left">lane3</td>
+<td align="right">0.0736063</td>
+<td align="right">0.1348326</td>
+<td align="right">0.5459082</td>
+<td align="right">0.5861098</td>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-lane4
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.1048
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.1348326
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.7772599
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.4384858
-</td>
+<tr class="even">
+<td align="left">lane4</td>
+<td align="right">0.1048</td>
+<td align="right">0.1348326</td>
+<td align="right">0.7772599</td>
+<td align="right">0.4384858</td>
 </tr>
+</tbody>
 </table>
-</br></br><!--/html_preserve-->
 
 That's a pretty high p-value, which doesn't give us much reason to
 believe that the lanes are different. Another approach we could take is
@@ -172,132 +124,63 @@ random factor.
             data = PinewoodDerby) 
 
     fit_me %>% 
-       dust() %>% 
-       sprinkle(pad = 4)
+       dust() 
 
-<!--html_preserve-->
-<table align="center" style="border-collapse:collapse;">
-<tr>
-<th colspan="1" ; rowspan="1" ; style="text-align:left;">
-term
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:right;">
-estimate
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:right;">
-std.error
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:right;">
-statistic
-</th>
-<th colspan="1" ; rowspan="1" ; style="text-align:left;">
-group
-</th>
+<table>
+<thead>
+<tr class="header">
+<th align="left">term</th>
+<th align="right">estimate</th>
+<th align="right">std.error</th>
+<th align="right">statistic</th>
+<th align="left">group</th>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-(Intercept)
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-3.5709875
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.0953411
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-37.4548684
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-fixed
-</td>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">(Intercept)</td>
+<td align="right">3.5709875</td>
+<td align="right">0.0953411</td>
+<td align="right">37.4548684</td>
+<td align="left">fixed</td>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-lane2
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.0813344
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.08009
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-1.0155376
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-fixed
-</td>
+<tr class="even">
+<td align="left">lane2</td>
+<td align="right">0.0813344</td>
+<td align="right">0.08009</td>
+<td align="right">1.0155376</td>
+<td align="left">fixed</td>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-lane3
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.0736063
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.08009
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.9190446
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-fixed
-</td>
+<tr class="odd">
+<td align="left">lane3</td>
+<td align="right">0.0736063</td>
+<td align="right">0.08009</td>
+<td align="right">0.9190446</td>
+<td align="left">fixed</td>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-lane4
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.1048
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.08009
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-1.3085285
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-fixed
-</td>
+<tr class="even">
+<td align="left">lane4</td>
+<td align="right">0.1048</td>
+<td align="right">0.08009</td>
+<td align="right">1.3085285</td>
+<td align="left">fixed</td>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-sd\_(Intercept).car
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.4338744
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-NA
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-NA
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-car
-</td>
+<tr class="odd">
+<td align="left">sd_(Intercept).car</td>
+<td align="right">0.4338744</td>
+<td align="right">NA</td>
+<td align="right">NA</td>
+<td align="left">car</td>
 </tr>
-<tr>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-sd\_Observation.Residual
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-0.3203599
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-NA
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:right;padding:4px;">
-NA
-</td>
-<td colspan="1" ; rowspan="1" ; style="text-align:left;padding:4px;">
-Residual
-</td>
+<tr class="even">
+<td align="left">sd_Observation.Residual</td>
+<td align="right">0.3203599</td>
+<td align="right">NA</td>
+<td align="right">NA</td>
+<td align="left">Residual</td>
 </tr>
+</tbody>
 </table>
-</br></br><!--/html_preserve-->
 
 What's interesting between these two models is that the coefficients
 didn't change at all between them, but the t-statistics are a bit larger
