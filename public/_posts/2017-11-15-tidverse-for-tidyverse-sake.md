@@ -64,6 +64,7 @@ Is there a speed advantage? Let's take a look.
     ##   base   33.492   40.614   90.65093   74.298   89.6965  2384.432   100  a
 
 Nope, it turns out that `mutate` is 88.39 times slower than using the
+
 base R approach. This observation comes with the obvious caveat that
 we're measuring time in microseconds here. This isn't really a big deal,
 right?
@@ -72,7 +73,7 @@ Well that depends. How many times are we going to do this. `broom`'s
 `tidy` methods can be used to get easy-to-work-with data from model
 objects. And if you are doing, for example, a bootstrap procedure where
 you're producing 10,000 model objects, the execution time for these two
-statements becomes 65.670015 seconds using `mutate` vs 0.74298 seconds
+statements becomes 65.670015 seconds using `mutate` vs 0.74298 second
 using `base`. It turns out those microseconds start to add up.
 
 So far, this is only dealing with a data frame with 32 rows. I was also
@@ -174,6 +175,7 @@ execution time is close to zero.
 
 ![](2017-11-15-tidverse-for-tidyverse-sake_files/figure-markdown_strict/unnamed-chunk-5-1.png)
 
+
 For completeness, the following figure depicts relative execution time.
 I won't spend much time interpreting it.
 
@@ -215,3 +217,4 @@ don't have to read it often anyway!
                  color = "red")
 
 ![](2017-11-15-tidverse-for-tidyverse-sake_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+
