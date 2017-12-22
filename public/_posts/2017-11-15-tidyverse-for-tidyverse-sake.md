@@ -58,10 +58,10 @@ Is there a speed advantage? Let's take a look.
 
     ## Unit: microseconds
     ##   expr      min       lq       mean   median        uq       max neval
-    ##  dplyr 3096.693 3198.672 3911.61908 3246.689 3305.1970 30731.200   100
-    ##   base   17.623   23.781   32.29551   37.108   39.3665    58.346   100
+    ##  dplyr 2670.282 2743.064 3408.62241 2804.841 2894.6175 28099.125   100
+    ##   base   16.877   19.503   28.90744   34.150   36.7075    51.399   100
 
-Nope, it turns out that `mutate` is 87.49 times slower than using the
+Nope, it turns out that `mutate` is 82.13 times slower than using the
 base R approach. This observation comes with the obvious caveat that
 we're measuring time in microseconds here. This isn't really a big deal,
 right?
@@ -70,7 +70,7 @@ Well that depends. How many times are we going to do this. `broom`'s
 `tidy` methods can be used to get easy-to-work-with data from model
 objects. And if you are doing, for example, a bootstrap procedure where
 you're producing 10,000 model objects, the execution time for these two
-statements becomes 32.466885 seconds using `mutate` vs 0.37108 seconds
+statements becomes 28.048405 seconds using `mutate` vs 0.3415 seconds
 using `base`. It turns out those microseconds start to add up.
 
 So far, this is only dealing with a data frame with 32 rows. I was also
@@ -143,7 +143,7 @@ million rows. At that point, `mutate` appears to gain the advantage.
       labs(linetype = "Repetitions",
            color = "Paradigm")
 
-![](2017-17-15-tidyverse-for-tidyverse-sake_files/figure-markdown_strict/unnamed-chunk-4-1.png)
+![](2017-11-15-tidyverse-for-tidyverse-sake_files/figure-markdown_strict/unnamed-chunk-4-1.png)
 
 If we focus on the data frames with 100,000 rows of fewer, we can better
 see the difference at "small" data frames, where 10,000 repetitions
@@ -170,7 +170,7 @@ execution time is close to zero.
       labs(linetype = "Repetitions",
            color = "Paradigm")
 
-![](2017-17-15-tidyverse-for-tidyverse-sake_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](2017-11-15-tidyverse-for-tidyverse-sake_files/figure-markdown_strict/unnamed-chunk-5-1.png)
 
 For completeness, the following figure depicts relative execution time.
 I won't spend much time interpreting it.
@@ -212,4 +212,4 @@ don't have to read it often anyway!
       geom_hline(yintercept = 1.0,
                  color = "red")
 
-![](2017-17-15-tidyverse-for-tidyverse-sake_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](2017-11-15-tidyverse-for-tidyverse-sake_files/figure-markdown_strict/unnamed-chunk-6-1.png)
